@@ -1,5 +1,7 @@
 # Laravel on Docker
 
+See the live video [here](https://youtu.be/sY7bzWUeUOg).
+
 Build your Laravel application on Docker.
 
 # Installation
@@ -16,5 +18,8 @@ Login to the container,
 docker exec -it server /bin/bash -c "TERM=$TERM exec bash"
 ~~~~
 
-# Maintainer Thanos Nokas
-* [Thanos Nokas](https://www.linkedin.com/in/thanosnokas/)
+# By SocialNerds
+* [SocialNerds.gr](https://www.socialnerds.gr/)
+* [YouTube](https://www.youtube.com/SocialNerdsGR)
+* [Facebook](https://www.facebook.com/SocialNerdsGR)
+* [Twitter](https://twitter.com/socialnerdsgr)
