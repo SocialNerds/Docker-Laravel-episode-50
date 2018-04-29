@@ -1,0 +1,13 @@
+[mysqld]
+
+innodb_lock_wait_timeout = 28800
+
+skip-name-resolve
+
+interactive_timeout = 28800
+wait_timeout = 28800
+connect_timeout = 28800
+
+max_allowed_packet 	= 512M
+
+log_error = /var/log/mysql/mysql_error.log

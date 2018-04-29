@@ -1,0 +1,14 @@
+.DS_Store
+._.DS_Store
+.env
+.idea
+.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/data/www/main/node_modules
+/data/www/main/public/hot
+/data/www/main/public/storage
+/data/www/main/storage/*.key
+/data/www/main/vendor
